@@ -351,9 +351,9 @@ body{
     display: block;
     transition: all 0.4s ease;
 }
-.choose__item-img-wrapper:not(:last-child){
+/* .choose__item-img-wrapper:not(:last-child){
     margin-right: 10px;
-}
+} */
 .choose__item-title {
     font-size: 30px;
     line-height: 35%;
